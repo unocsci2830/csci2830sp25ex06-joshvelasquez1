@@ -1,3 +1,3 @@
-# Title (update this to match assignment, e.g., Exercise 3, etc.)
+# Excercise 6
 
-add short (1-2 sentences) description of assignment here
+creating packages
